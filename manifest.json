@@ -1,0 +1,13 @@
+{
+  "name": "Youtube Pure URL Copy",
+  "description": "Youtube Pure URL Copy",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup/popup.html"
+  },
+  "permissions": [
+    "clipboardWrite",
+    "tabs"
+  ]
+}
